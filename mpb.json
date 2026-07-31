@@ -167,5 +167,7 @@
 {"id":163,"artist":"Radio Taxi","title":"Eva","genero":"MPB","src":"Radio-Taxi-Eva.m4a"},
 {"id":164,"artist":"Seu Jorge","title":"Sabado a noite","genero":"MPB","src":"Seu-Jorge-sabadoanoite.m4a"},
 {"id":165,"artist":"Legião Urbana","title":"O Mundo Anda Tão Complicado","genero":"MPB","src":"Titas-MundoO-MundoAndaoComplicado.m4a"},
-{"id":166,"artist":"J-Gomes-Tie","title":"ANoite","genero":"MPB","src":"J-Gomes-Tie-ANoite.m4a"}
+{"id":166,"artist":"J-Gomes-Tie","title":"ANoite","genero":"MPB","src":"J-Gomes-Tie-ANoite.m4a"},
+  {"id":167,"artist":"Armandinho","title":"Outra-Noite-Que-Se-Vai","genero":"MPB","src":"Armandinho-Outra-Noite-Que-Se-Vai.mp3"}
+]
 ]
