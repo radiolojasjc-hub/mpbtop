@@ -168,6 +168,24 @@
 {"id":164,"artist":"Seu Jorge","title":"Sabado a noite","genero":"MPB","src":"Seu-Jorge-sabadoanoite.m4a"},
 {"id":165,"artist":"Legião Urbana","title":"O Mundo Anda Tão Complicado","genero":"MPB","src":"Titas-MundoO-MundoAndaoComplicado.m4a"},
 {"id":166,"artist":"J-Gomes-Tie","title":"ANoite","genero":"MPB","src":"J-Gomes-Tie-ANoite.m4a"},
-  {"id":167,"artist":"Armandinho","title":"Outra-Noite-Que-Se-Vai","genero":"MPB","src":"Armandinho-Outra-Noite-Que-Se-Vai.mp3"}
+  {"id":167,"artist":"Armandinho","title":"Outra-Noite-Que-Se-Vai","genero":"MPB","src":"Armandinho-Outra-Noite-Que-Se-Vai.mp3"},
+  {"id":165,"artist":"Blitz","title":"Mais Uma De Amor Geme Geme","genero":"POP","src":"MaisUmaDeAmorGemeGeme_Blitz.mp3"},
+{"id":166,"artist":"Erasmo Carlos","title":"Mesmo Que Seja Eu","genero":"POP","src":"MesmoQueSejaEu_ErasmoCarlos.mp3"},
+{"id":167,"artist":"Fagner","title":"Cartaz","genero":"MPB","src":"Cartaz_Fagner.mp3"},
+{"id":168,"artist":"Gal Costa","title":"Sorte","genero":"MPB","src":"Sorte_GalCosta.mp3"},
+{"id":169,"artist":"Luka","title":"Porta Aberta","genero":"MPB","src":"PortaAberta_Luka.mp3"},
+{"id":170,"artist":"Marisa Monte Seu Jorge","title":"Pra Melhorar","genero":"MPB","src":"PraMelhorar_MarisaMonteSeuJorge.mp3"},
+{"id":171,"artist":"Patricia Marx Seu Jorge","title":"Espelhos d agua","genero":"MPB","src":"Espelhosdagua_PatriciaMarxSeuJorge.mp3"},
+{"id":172,"artist":"PEPEU GOMES","title":"PLANETA VeNUS","genero":"MPB","src":"PLANETAVeNUS_PEPEUGOMES.mp3"},
+{"id":173,"artist":"Pericles e Nando Reis","title":"Na Estrada","genero":"MPB","src":"NaEstrada_PericleseNandoReis.mp3"},
+{"id":174,"artist":"pittyoficial","title":"e Nando Reis All Star Ao Vivo","genero":"MPB","src":"eNandoReisAllStarAoVivo_pittyoficial.mp3"},
+{"id":175,"artist":"pittyoficial","title":"e Nando Reis Por Onde Andei","genero":"MPB","src":"eNandoReisPorOndeAndei_pittyoficial.mp3"},
+{"id":176,"artist":"selma Reis","title":"O Que e O Amor","genero":"MPB","src":"OQueeOAmor_selmaReis.mp3"},
+{"id":177,"artist":"9Kid","title":"Abelha0 Pintura intima","genero":"MPB","src":"Abelha0Pinturaintima_9Kid.mp3"},
+{"id":178,"artist":"Alexandre Pires","title":"Lindo Lago do Amor","genero":"MPB","src":"LindoLagodoAmor_AlexandrePires.mp3"},
+{"id":179,"artist":"Gonzaquinha","title":"Lindo Lago Do Amor","genero":"MPB","src":"LindoLagoDoAmor_Gonzaquinha.mp3"},
+{"id":180,"artist":"PAULO MIKLOS","title":"PRA DIZER ADEUS","genero":"MPB","src":"PRADIZERADEUS_PAULOMIKLOS.mp3"},
+{"id":181,"artist":"Patiricia Max","title":"Quando Chove","genero":"MPB","src":"QuandoChove_PatiriciaMax.mp3"},
+{"id":182,"artist":"Patricia max","title":"Sonho de Amor","genero":"MPB","src":"SonhodeAmor_Patriciamax.mp3"}
 ]
 
