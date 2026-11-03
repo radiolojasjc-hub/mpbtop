@@ -336,8 +336,23 @@
   {"id":335,"artist":"Cássia Eller","title":"Luz dos Olhos","genero":"MPB","src":"Luz_Dos_Olhos-CASSIA_ELLER.mp3"},
   {"id":336,"artist":"Rita Lee","title":"Mania de Você","genero":"MPB","src":"Mania_De_Voce_RITA_LEE.mp3"},
   {"id":337,"artist":"Jorge Vercillo","title":"Sensível Demais (Ciclo JV30)","genero":"POP","src":"Jorge_Vercillo_Sensivel_Demais_Ciclo_JV_Jorge_Vercillo.mp3"},
+  
   {"id":338,"artist":"Fat Family","title":"Medley","genero":"POP","src":"MEDLEY_FAT_FAMILY.mp3"},
   {"id":339,"artist":"Nanda Garcia","title":"Ao Vivo o Amor Não Sabe Esperar","genero":"POP","src":"Ao_Vivo_O_Amor_Nao_Sabe_Esperar_Nanda_Garcia.mp3"},
   {"id":340,"artist":"Nanda Garcia e Flávio Venturini","title":"Todo Azul do Mar","genero":"POP","src":"Todo_Azul_do_Mar_Nanda_Garcia_e_Flavio_Venturini.mp3"},
-  {"id":341,"artist":"Iciar Diaz","title":"Cobaia","genero":"POP","src":"Cobaia_Iciar_Diaz.mp3"}
+  {"id":341,"artist":"Iciar Diaz","title":"Cobaia","genero":"POP","src":"Cobaia_Iciar_Diaz.mp3"},
+
+  
+{"id":342,"artist":"Marina Lima - Topic","title":"Uma Noite E /","genero":"MPB","src":"Uma_Noite_E_Marina_Lima_-_Topic.mp3"},
+{"id":343,"artist":"Os Paralamas Do - Topic","title":"Romance Ideal","genero":"MPB","src":"Romance_Ideal_Os_Paralamas_Do_-_Topic.mp3"},
+{"id":344,"artist":"Leo Jaime - Topic","title":"Preciso dizer que te amo","genero":"MPB","src":"Preciso_dizer_que_te_amo_Leo_Jaime_-_Topic.mp3"},
+{"id":345,"artist":"Leo Jaime - Topic","title":"Mensagem de Amor","genero":"MPB","src":"Mensagem_de_Amor_Leo_Jaime_-_Topic.mp3"},
+{"id":346,"artist":"FagnerVEVO","title":"Fagner - Fanatismo","genero":"MPB","src":"Fagner_-_Fanatismo_FagnerVEVO.mp3"},
+{"id":347,"artist":"Gilberto Gil","title":"Estrela","genero":"MPB","src":"Estrela_Gilberto_Gil.mp3"},
+{"id":348,"artist":"Isabella Taviani","title":"Digitais","genero":"MPB","src":"Digitais_Isabella_Taviani.mp3"},
+{"id":349,"artist":"Lobão - Topic","title":"Blá Blá Blá... Eu Te Amo","genero":"MPB","src":"Bla_Bla_Bla._Eu_Te_Amo_Lobao_-_Topic.mp3"},
+{"id":350,"artist":"Lulu Santos","title":"Aviso aos Navegantes","genero":"MPB","src":"Aviso_aos_Navegantes_Lulu_Santos.mp3"},
+{"id":351,"artist":"Lulu Santos","title":"Assim Caminha a Humanidade","genero":"MPB","src":"Assim_Caminha_a_Humanidade_Lulu_Santos.mp3"},
+{"id":352,"artist":"Flavio Venturini","title":"Amor De Índio","genero":"MPB","src":"Amor_De_Indio_Flavio_Venturini.mp3"}
 ]
+
