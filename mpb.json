@@ -368,6 +368,15 @@
 {"id":364,"artist":"Vanessa da Mata","title":"Me Adora Mas","genero":"Music","src":"vanessadamata_meadoramas.mp3"},
 {"id":365,"artist":"Jota Quest","title":"Você","genero":"Music","src":"jotaquest_voce.mp3"},
 {"id":366,"artist":"Ivan Lins","title":"Madalena","genero":"Music","src":"ivanlins_madalena.mp3"},
-{"id":367,"artist":"Milton Nascimento","title":"Nos Bailes da Vida Série ","genero":"Music","src":"miltonnascimento_nosbailesvidaserie.mp3"} 
+{"id":367,"artist":"Milton Nascimento","title":"Nos Bailes da Vida Série ","genero":"Music","src":"miltonnascimento_nosbailesvidaserie.mp3"},
+  {"id":368,"artist":"Alcione","title":"Que Eu Faço Amanhã Meu Vício É Você","genero":"MPB","src":"alcione_queeufacoamanhameuviciovoce.mp3"},
+{"id":369,"artist":"Ana Carolina","title":"Confesso","genero":"MPB","src":"anacarolina_confesso.mp3"},
+{"id":370,"artist":"Ana Carolina","title":"Pra Rua Me Levar","genero":"MPB","src":"anacarolina_praruamelevar.mp3"},
+{"id":371,"artist":"Ana Carolina","title":"Só Fala em Mim","genero":"MPB","src":"anacarolina_sofalaemmim.mp3"},
+{"id":372,"artist":"vdbre","title":"Codinome Beija Flor","genero":"MPB","src":"vdbre_codinomebeijaflor.mp3"},
+{"id":373,"artist":"Fagner","title":"Espumas Ao Vento","genero":"MPB","src":"fagner_espumasaovento.mp3"},
+{"id":374,"artist":"Fagner","title":"Faz de Conta","genero":"MPB","src":"fagner_fazconta.mp3"},
+{"id":375,"artist":"Ludmilla","title":"Exagerado Pmb","genero":"MPB","src":"ludmilla_exageradopmb.mp3"},
+{"id":376,"artist":"Luisa Sonza","title":"Faz Parte do Meu Pmb","genero":"MPB","src":"luisasonza_fazpartemeupmb.mp3"}
 ]
 
